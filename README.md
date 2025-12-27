@@ -185,6 +185,3 @@ Typical steps (high-level):
 
 ---
 
-## License
-
-Add your preferred open-source license (e.g., MIT) if you plan to share this publicly.
